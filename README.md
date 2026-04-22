@@ -31,7 +31,7 @@ The dataset used in this project contains daily air quality metrics for multiple
 6. **AQI Prediction:**
    - Predicts AQI values based on pollutant levels.
 
-## Results
+## Result
 - **Correlation Analysis:** Highlights relationships between pollutants and AQI.
 - **Visualization Insights:** Demonstrates pollutant impact through various plots.
 - **Model Accuracy:** Evaluates prediction accuracy using test data.
